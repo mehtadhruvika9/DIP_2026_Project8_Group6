@@ -67,7 +67,8 @@ DIP_2026_Project8_Group6/
 ├── Codes/
 ├── Results/
 ├── Mid_Sem_Report/
-└── End_Sem_Report/
+├──End_Sem_Report/
+└── Weekly_Progress_Report/
 ```
 ## Progress Tracking
 
