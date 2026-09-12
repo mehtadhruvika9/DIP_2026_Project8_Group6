@@ -64,7 +64,7 @@ The project will broadly follow these steps:
 DIP_2026_Project8_Group6/
 │
 ├── README.md
-├── Code/
+├── Codes/
 ├── Results/
 ├── Mid_Sem_Report/
 └── End_Sem_Report/
