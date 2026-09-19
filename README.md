@@ -80,4 +80,4 @@ DIP_2026_Project8_Group6/
 
 1. Y. Bhavsar, M. Zaveri, M. Raval, K. R. Patel, and S. B. Zaveri, "Descriptor: Drone Nadir-view Annotated Images of Vehicles Detection Dataset for India with Heading-angle Oriented Bounding Box (DRASHTI-HaOBB)," *IEEE Data Descriptions*, 2026, doi: 10.1109/IEEEDATA.2026.3670752.
 2. Y. Bhavsar, M. Zaveri, M. Raval, S. Zaveri, and Ahmedabad University, "DRASHTI-HaOBB: Drone nadiR-view Annotated imageS of veHicles dataseT for India - Heading-angle Oriented Bounding Box," *Zenodo*, 2026, doi: 10.5281/zenodo.18278989.
-3. "Vehicle Position Monitoring Using Hough Transform," *IERI Procedia*, vol. 4, pp. 316–322, 2013.
+
