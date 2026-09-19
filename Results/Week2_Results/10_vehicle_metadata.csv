@@ -1,0 +1,11 @@
+vehicle_uid,image_stem,vehicle_id,class_id,class_name,difficulty,gt_heading,gt_orientation,crop_width,crop_height,crop_path
+fajh_DDXI_sVyD_vehicle_103,fajh_DDXI_sVyD,103,0,Auto3WCargo,0,75.0,75.0,183,244,/content/week2_10_crops/fajh_DDXI_sVyD_vehicle_103.jpg
+w8fp_m2WO_Ehux_vehicle_3,w8fp_m2WO_Ehux,3,0,Auto3WCargo,0,90.0,90.0,72,130,/content/week2_10_crops/w8fp_m2WO_Ehux_vehicle_3.jpg
+hW19_22e2_Ikt0_vehicle_5,hW19_22e2_Ikt0,5,0,Auto3WCargo,0,173.0,7.0,166,79,/content/week2_10_crops/hW19_22e2_Ikt0_vehicle_5.jpg
+pYWE_TnGD_nElC_vehicle_36,pYWE_TnGD_nElC,36,0,Auto3WCargo,0,80.0,80.0,132,175,/content/week2_10_crops/pYWE_TnGD_nElC_vehicle_36.jpg
+lv6a_dp9T_xWho_vehicle_27,lv6a_dp9T_xWho,27,0,Auto3WCargo,0,94.0,86.0,113,197,/content/week2_10_crops/lv6a_dp9T_xWho_vehicle_27.jpg
+OaRn_LjEv_37zf_vehicle_53,OaRn_LjEv_37zf,53,0,Auto3WCargo,0,347.1,12.899999999999977,129,84,/content/week2_10_crops/OaRn_LjEv_37zf_vehicle_53.jpg
+Yrne_u19R_I0V5_vehicle_45,Yrne_u19R_I0V5,45,0,Auto3WCargo,0,274.0,86.0,227,322,/content/week2_10_crops/Yrne_u19R_I0V5_vehicle_45.jpg
+4b3m_Gv8b_e30r_vehicle_54,4b3m_Gv8b_e30r,54,0,Auto3WCargo,0,270.0,90.0,103,204,/content/week2_10_crops/4b3m_Gv8b_e30r_vehicle_54.jpg
+7xQC_Xodc_PVRI_vehicle_63,7xQC_Xodc_PVRI,63,0,Auto3WCargo,0,347.1,12.899999999999977,130,84,/content/week2_10_crops/7xQC_Xodc_PVRI_vehicle_63.jpg
+u7ym_to7b_z4i6_vehicle_71,u7ym_to7b_z4i6,71,0,Auto3WCargo,0,350.0,10.0,124,79,/content/week2_10_crops/u7ym_to7b_z4i6_vehicle_71.jpg
