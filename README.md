@@ -28,7 +28,6 @@ The estimated vehicle orientation will be compared with the ground-truth orienta
   - Contour/shape-based methods
   - PCA-based orientation estimation
   - Hough Transform
-  - Minimum-area rectangle fitting
 - Calculate the angular error between estimated and ground-truth orientations.
 - Analyze the effect of vehicle class, size, image quality, and difficulty level on performance.
 
