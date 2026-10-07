@@ -1,0 +1,4 @@
+Method,Total_Images,Successful,Failed,Success_Rate_%,Mean_Angular_Error_deg,Median_Angular_Error_deg,Std_Angular_Error_deg,Maximum_Angular_Error_deg
+PCA,100,100,0,100.0,10.74,4.85,16.11,81.71
+Hough,100,98,2,98.0,12.46,4.18,20.44,82.39
+Contour,100,100,0,100.0,10.97,5.72,16.44,89.0
