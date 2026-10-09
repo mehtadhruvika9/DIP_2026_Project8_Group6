@@ -1,0 +1,12 @@
+Vehicle_Class,Samples,PCA_Mean_Error_deg,Hough_Mean_Error_deg,Contour_Mean_Error_deg,PCA_Median_Error_deg,Hough_Median_Error_deg,Contour_Median_Error_deg
+Auto3WCargo,3,11.34,38.58,13.41,4.15,19.98,4.43
+AutoRicksaw,8,7.49,13.97,8.29,5.36,8.07,3.06
+Bus,2,27.32,0.74,24.18,27.32,0.74,24.18
+Container,3,40.12,49.13,27.49,42.07,49.13,34.1
+MotorCycle,30,7.28,4.54,10.15,4.23,2.79,6.28
+PickUp,4,8.73,20.72,3.86,8.44,8.06,3.58
+SUV,34,7.64,12.97,8.34,3.62,4.06,5.54
+Sedan,7,23.55,7.03,18.1,25.92,3.8,6.34
+Tanker,1,0.19,3.27,7.0,0.19,3.27,7.0
+Trailer,3,28.97,32.87,30.21,4.07,8.91,0.82
+Truck,5,8.05,17.5,6.39,5.31,4.93,5.33
