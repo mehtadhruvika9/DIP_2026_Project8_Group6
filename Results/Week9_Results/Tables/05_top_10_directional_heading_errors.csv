@@ -1,0 +1,11 @@
+Vehicle_Class,Vehicle_ID,Ground_Truth_Heading_deg,Week8_Estimated_Heading_deg,Week8_Directional_Error_deg
+Bus,OyGP_UjOQ_hJIP_vehicle_1,86.0,266.09,179.91
+SUV,ZKIx_Msfo_O7V9_vehicle_1,356.78,177.02,179.76
+Container,WB91_YzXz_82r4_vehicle_1,1.0,181.36,179.64
+Container,y0bo_oHBY_y2mz_vehicle_1,6.0,185.51,179.51
+SUV,Yfx3_zEFB_Ld6Y_vehicle_1,350.48,171.25,179.23
+Container,zarI_WVuj_0DCc_vehicle_1,6.0,185.18,179.18
+SUV,9SAd_tJKX_KWb9_vehicle_1,184.66,3.18,178.52
+MotorCycle,Df3T_rTNG_KSCM_vehicle_1,173.64,351.82,178.18
+SUV,ON14_goh0_iF0V_vehicle_1,183.74,5.74,178.0
+Auto3WCargo,hwun_OlDq_ey5G_vehicle_1,270.0,92.02,177.98

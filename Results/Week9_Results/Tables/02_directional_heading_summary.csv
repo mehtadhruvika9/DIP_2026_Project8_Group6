@@ -1,0 +1,2 @@
+Total_Vehicles,Successful_Predictions,Failed_Predictions,Success_Rate_%,MAE_deg,Median_Error_deg,Maximum_Error_deg,Standard_Deviation_deg,Errors_Above_30_deg
+100,100,0,100.0,82.02370771679139,13.348996427255578,179.9127378039716,82.83385171205225,48
